@@ -1,0 +1,15 @@
+C:\Users\olegs\source\repos\C#\Module\Module_1\bin\Debug\net6.0\Module_1.exe
+C:\Users\olegs\source\repos\C#\Module\Module_1\bin\Debug\net6.0\Module_1.deps.json
+C:\Users\olegs\source\repos\C#\Module\Module_1\bin\Debug\net6.0\Module_1.runtimeconfig.json
+C:\Users\olegs\source\repos\C#\Module\Module_1\bin\Debug\net6.0\Module_1.dll
+C:\Users\olegs\source\repos\C#\Module\Module_1\bin\Debug\net6.0\Module_1.pdb
+C:\Users\olegs\source\repos\C#\Module\Module_1\obj\Debug\net6.0\Module_1.csproj.AssemblyReference.cache
+C:\Users\olegs\source\repos\C#\Module\Module_1\obj\Debug\net6.0\Module_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\source\repos\C#\Module\Module_1\obj\Debug\net6.0\Module_1.AssemblyInfoInputs.cache
+C:\Users\olegs\source\repos\C#\Module\Module_1\obj\Debug\net6.0\Module_1.AssemblyInfo.cs
+C:\Users\olegs\source\repos\C#\Module\Module_1\obj\Debug\net6.0\Module_1.csproj.CoreCompileInputs.cache
+C:\Users\olegs\source\repos\C#\Module\Module_1\obj\Debug\net6.0\Module_1.dll
+C:\Users\olegs\source\repos\C#\Module\Module_1\obj\Debug\net6.0\refint\Module_1.dll
+C:\Users\olegs\source\repos\C#\Module\Module_1\obj\Debug\net6.0\Module_1.pdb
+C:\Users\olegs\source\repos\C#\Module\Module_1\obj\Debug\net6.0\Module_1.genruntimeconfig.cache
+C:\Users\olegs\source\repos\C#\Module\Module_1\obj\Debug\net6.0\ref\Module_1.dll
